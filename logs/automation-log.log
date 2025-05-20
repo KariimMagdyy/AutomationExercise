@@ -1,0 +1,370 @@
+2025-05-17 15:16:44,879 [main] INFO : Performing product search for: Top
+2025-05-17 15:16:46,104 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:16:46,168 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 15:16:46,380 [main] WARN : Product name does not contain keyword:
+
+2025-05-17 15:22:14,756 [main] INFO : Performing product search for: Top
+2025-05-17 15:22:15,973 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:22:16,361 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 15:22:16,404 [main] WARN : Product name does not contain keyword:
+
+2025-05-17 15:36:43,096 [main] INFO : Performing product search for: Top
+2025-05-17 15:36:44,505 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:36:44,754 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 15:36:44,955 [main] WARN : Product name does not contain keyword:
+
+2025-05-17 15:38:39,539 [main] INFO : Performing product search for: Top
+2025-05-17 15:38:40,806 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:38:41,054 [main] INFO : Logging all visible product names:
+2025-05-17 15:38:41,220 [main] INFO : → 
+2025-05-17 15:38:41,236 [main] INFO : → 
+2025-05-17 15:38:41,246 [main] INFO : → 
+2025-05-17 15:38:41,258 [main] INFO : → 
+2025-05-17 15:38:41,287 [main] INFO : → 
+2025-05-17 15:38:41,302 [main] INFO : → 
+2025-05-17 15:38:41,313 [main] INFO : → 
+2025-05-17 15:38:41,323 [main] INFO : → 
+2025-05-17 15:38:41,334 [main] INFO : → 
+2025-05-17 15:38:41,343 [main] INFO : → 
+2025-05-17 15:38:41,354 [main] INFO : → 
+2025-05-17 15:38:41,366 [main] INFO : → 
+2025-05-17 15:38:41,387 [main] INFO : → 
+2025-05-17 15:38:41,396 [main] INFO : → 
+2025-05-17 15:38:41,396 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 15:38:41,425 [main] WARN : Product name does not contain keyword:
+
+2025-05-17 15:41:48,621 [main] INFO : Performing product search for: Top
+2025-05-17 15:41:50,040 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:41:50,306 [main] INFO : Logging all visible product names:
+2025-05-17 15:41:50,442 [main] INFO : Verifying all products in the list contain the keyword: Top
+
+2025-05-17 15:48:29,076 [main] INFO : Performing product search for: Top
+2025-05-17 15:48:30,399 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 15:48:30,782 [main] INFO : Logging all visible product names:
+2025-05-17 15:48:30,804 [main] INFO : Verifying all products in the list contain the keyword: Top
+
+2025-05-17 22:31:24,242 [main] INFO : Performing product search for: Top
+2025-05-17 22:31:41,598 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 22:31:41,894 [main] INFO : Logging all visible product names:
+2025-05-17 22:31:41,935 [main] INFO : Verifying all products in the list contain the keyword: Top
+
+2025-05-17 22:38:51,256 [main] INFO : Performing product search for: Top
+2025-05-17 22:38:56,667 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 22:39:02,288 [main] ERROR: Timed out waiting for product names to be visible.
+
+2025-05-17 23:03:29,980 [main] INFO : Performing product search for: Top
+2025-05-17 23:03:43,250 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 23:03:43,318 [main] INFO : Logging all visible product names:
+2025-05-17 23:03:43,382 [main] INFO : Verifying all products in the list contain the keyword: Top
+
+2025-05-17 23:11:10,997 [main] INFO : Performing product search for: Top
+2025-05-17 23:11:23,439 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 23:11:23,572 [main] INFO : Logging all visible product names:
+2025-05-17 23:11:23,589 [main] INFO : Verifying all products in the list contain the keyword: Top
+
+2025-05-17 23:15:23,218 [main] INFO : Performing product search for: Top
+2025-05-17 23:15:43,433 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 23:15:43,572 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-17 23:15:43,625 [main] INFO : Waiting for product list to be visible. Found 14 elements.
+2025-05-17 23:15:43,685 [main] INFO : Logging all visible product names:
+2025-05-17 23:15:43,722 [main] INFO : → [Blue Top]
+2025-05-17 23:15:43,734 [main] INFO : → [Winter Top]
+2025-05-17 23:15:43,747 [main] INFO : → [Summer White Top]
+2025-05-17 23:15:43,757 [main] INFO : → [Madame Top For Women]
+2025-05-17 23:15:43,768 [main] INFO : → [Fancy Green Top]
+2025-05-17 23:15:43,789 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-17 23:15:43,792 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-17 23:15:43,805 [main] INFO : → [Frozen Tops For Kids]
+2025-05-17 23:15:43,821 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-17 23:15:43,827 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-17 23:15:43,838 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-17 23:15:43,855 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-17 23:15:43,855 [main] INFO : → [Colour Blocked  Shirt – Sky Blue]
+2025-05-17 23:15:43,871 [main] INFO : → [Lace Top For Women]
+2025-05-17 23:15:43,871 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 23:15:44,007 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+
+2025-05-17 23:26:06,449 [main] INFO : Performing product search for: Top
+2025-05-17 23:27:03,257 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-17 23:27:03,315 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-17 23:27:03,622 [main] INFO : Logging all visible product names:
+2025-05-17 23:27:03,651 [main] INFO : → [Blue Top]
+2025-05-17 23:27:03,662 [main] INFO : → [Winter Top]
+2025-05-17 23:27:03,672 [main] INFO : → [Summer White Top]
+2025-05-17 23:27:03,682 [main] INFO : → [Madame Top For Women]
+2025-05-17 23:27:03,692 [main] INFO : → [Fancy Green Top]
+2025-05-17 23:27:03,704 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-17 23:27:03,715 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-17 23:27:03,726 [main] INFO : → [Frozen Tops For Kids]
+2025-05-17 23:27:03,735 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-17 23:27:03,746 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-17 23:27:03,756 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-17 23:27:03,766 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-17 23:27:03,780 [main] INFO : → [Colour Blocked  Shirt – Sky Blue]
+2025-05-17 23:27:03,790 [main] INFO : → [Lace Top For Women]
+2025-05-17 23:27:03,791 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-17 23:27:03,932 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-18 01:57:38,438 [main] INFO : Performing product search for: Top
+2025-05-18 01:58:07,993 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-18 01:58:08,060 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-18 01:58:08,351 [main] INFO : Logging all visible product names:
+2025-05-18 01:58:08,404 [main] INFO : → [Blue Top]
+2025-05-18 01:58:08,415 [main] INFO : → [Winter Top]
+2025-05-18 01:58:08,425 [main] INFO : → [Summer White Top]
+2025-05-18 01:58:08,434 [main] INFO : → [Madame Top For Women]
+2025-05-18 01:58:08,442 [main] INFO : → [Fancy Green Top]
+2025-05-18 01:58:08,451 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-18 01:58:08,460 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-18 01:58:08,470 [main] INFO : → [Frozen Tops For Kids]
+2025-05-18 01:58:08,480 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-18 01:58:08,491 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-18 01:58:08,502 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-18 01:58:08,514 [main] INFO : → [Little Girls Mr. Panda Shirt]
+2025-05-18 01:58:08,530 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-18 01:58:08,541 [main] INFO : → [Lace Top For Women]
+2025-05-18 01:58:08,541 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-18 01:58:08,685 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda Shirt]
+2025-05-18 14:57:03,930 [main] INFO : Performing product search for: Top
+2025-05-18 14:57:05,406 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-18 14:57:05,503 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-18 14:57:05,787 [main] INFO : Logging all visible product names:
+2025-05-18 14:57:05,819 [main] INFO : → [Blue Top]
+2025-05-18 14:57:05,832 [main] INFO : → [Winter Top]
+2025-05-18 14:57:05,848 [main] INFO : → [Summer White Top]
+2025-05-18 14:57:05,870 [main] INFO : → [Madame Top For Women]
+2025-05-18 14:57:05,897 [main] INFO : → [Fancy Green Top]
+2025-05-18 14:57:05,913 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-18 14:57:05,928 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-18 14:57:05,943 [main] INFO : → [Frozen Tops For Kids]
+2025-05-18 14:57:05,968 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-18 14:57:05,987 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-18 14:57:06,000 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-18 14:57:06,014 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-18 14:57:06,031 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-18 14:57:06,041 [main] INFO : → [Lace Top For Women]
+2025-05-18 14:57:06,041 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-18 14:57:06,271 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-19 20:25:08,381 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-19 20:25:08,469 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-19 20:25:10,274 [main] INFO : Verifying product name contains: Blue Top
+2025-05-19 20:25:10,401 [main] INFO : Verifying product category contains: Category
+2025-05-19 20:25:10,514 [main] INFO : Verifying product price contains: Rs.
+2025-05-19 20:25:10,583 [main] INFO : Verifying product availability contains: Availability
+2025-05-19 20:25:10,648 [main] INFO : Verifying product condition contains: Condition
+2025-05-19 20:25:10,716 [main] INFO : Verifying product brand contains: Brand
+2025-05-19 20:25:21,577 [main] INFO : Performing product search for: Top
+2025-05-19 20:25:24,578 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-19 20:25:24,628 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-19 20:25:24,862 [main] INFO : Logging all visible product names:
+2025-05-19 20:25:24,885 [main] INFO : → [Blue Top]
+2025-05-19 20:25:24,897 [main] INFO : → [Winter Top]
+2025-05-19 20:25:24,909 [main] INFO : → [Summer White Top]
+2025-05-19 20:25:24,920 [main] INFO : → [Madame Top For Women]
+2025-05-19 20:25:24,937 [main] INFO : → [Fancy Green Top]
+2025-05-19 20:25:24,946 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-19 20:25:24,957 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-19 20:25:24,965 [main] INFO : → [Frozen Tops For Kids]
+2025-05-19 20:25:24,977 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-19 20:25:24,993 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-19 20:25:25,005 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-19 20:25:25,014 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-19 20:25:25,026 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-19 20:25:25,037 [main] INFO : → [Lace Top For Women]
+2025-05-19 20:25:25,038 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-19 20:25:25,184 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-19 20:59:41,654 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-19 20:59:41,744 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-19 20:59:42,801 [main] INFO : Verifying product name contains: Blue Top
+2025-05-19 20:59:42,890 [main] INFO : Verifying product category contains: Category
+2025-05-19 20:59:43,058 [main] INFO : Verifying product price contains: Rs.
+2025-05-19 20:59:43,113 [main] INFO : Verifying product availability contains: Availability
+2025-05-19 20:59:43,190 [main] INFO : Verifying product condition contains: Condition
+2025-05-19 20:59:43,281 [main] INFO : Verifying product brand contains: Brand
+2025-05-19 20:59:54,621 [main] INFO : Performing product search for: Top
+2025-05-19 20:59:57,713 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-19 20:59:57,764 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-19 20:59:57,987 [main] INFO : Logging all visible product names:
+2025-05-19 20:59:58,006 [main] INFO : → [Blue Top]
+2025-05-19 20:59:58,008 [main] INFO : → [Winter Top]
+2025-05-19 20:59:58,027 [main] INFO : → [Summer White Top]
+2025-05-19 20:59:58,036 [main] INFO : → [Madame Top For Women]
+2025-05-19 20:59:58,047 [main] INFO : → [Fancy Green Top]
+2025-05-19 20:59:58,055 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-19 20:59:58,071 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-19 20:59:58,101 [main] INFO : → [Frozen Tops For Kids]
+2025-05-19 20:59:58,110 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-19 20:59:58,120 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-19 20:59:58,129 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-19 20:59:58,137 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-19 20:59:58,150 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-19 20:59:58,161 [main] INFO : → [Lace Top For Women]
+2025-05-19 20:59:58,162 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-19 20:59:58,278 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-19 21:39:14,632 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-19 21:39:14,757 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-19 21:39:16,157 [main] INFO : Verifying product name contains: Blue Top
+2025-05-19 21:39:16,290 [main] INFO : Verifying product category contains: Category
+2025-05-19 21:39:16,432 [main] INFO : Verifying product price contains: Rs.
+2025-05-19 21:39:16,488 [main] INFO : Verifying product availability contains: Availability
+2025-05-19 21:39:16,571 [main] INFO : Verifying product condition contains: Condition
+2025-05-19 21:39:16,634 [main] INFO : Verifying product brand contains: Brand
+2025-05-19 21:39:24,055 [main] INFO : Performing product search for: Top
+2025-05-19 21:39:25,681 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-19 21:39:25,720 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-19 21:39:26,190 [main] INFO : Logging all visible product names:
+2025-05-19 21:39:26,218 [main] INFO : → [Blue Top]
+2025-05-19 21:39:26,233 [main] INFO : → [Winter Top]
+2025-05-19 21:39:26,244 [main] INFO : → [Summer White Top]
+2025-05-19 21:39:26,262 [main] INFO : → [Madame Top For Women]
+2025-05-19 21:39:26,275 [main] INFO : → [Fancy Green Top]
+2025-05-19 21:39:26,287 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-19 21:39:26,299 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-19 21:39:26,314 [main] INFO : → [Frozen Tops For Kids]
+2025-05-19 21:39:26,325 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-19 21:39:26,342 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-19 21:39:26,373 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-19 21:39:26,378 [main] INFO : → [Little Girls Mr. Panda Shirt]
+2025-05-19 21:39:26,395 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-19 21:39:26,403 [main] INFO : → [Lace Top For Women]
+2025-05-19 21:39:26,403 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-19 21:39:26,536 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda Shirt]
+2025-05-19 22:55:42,305 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-19 22:55:42,467 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-19 22:55:47,946 [main] INFO : Verifying product name contains: Blue Top
+2025-05-19 22:55:48,044 [main] INFO : Verifying product category contains: Category
+2025-05-19 22:55:48,112 [main] INFO : Verifying product price contains: Rs.
+2025-05-19 22:55:48,193 [main] INFO : Verifying product availability contains: Availability
+2025-05-19 22:55:48,272 [main] INFO : Verifying product condition contains: Condition
+2025-05-19 22:55:48,369 [main] INFO : Verifying product brand contains: Brand
+2025-05-19 22:56:06,762 [main] INFO : Performing product search for: Top
+2025-05-19 22:56:10,137 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-19 22:56:10,216 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-19 22:56:10,576 [main] INFO : Logging all visible product names:
+2025-05-19 22:56:10,596 [main] INFO : → [Blue Top]
+2025-05-19 22:56:10,607 [main] INFO : → [Winter Top]
+2025-05-19 22:56:10,619 [main] INFO : → [Summer White Top]
+2025-05-19 22:56:10,628 [main] INFO : → [Madame Top For Women]
+2025-05-19 22:56:10,643 [main] INFO : → [Fancy Green Top]
+2025-05-19 22:56:10,655 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-19 22:56:10,666 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-19 22:56:10,675 [main] INFO : → [Frozen Tops For Kids]
+2025-05-19 22:56:10,686 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-19 22:56:10,696 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-19 22:56:10,707 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-19 22:56:10,717 [main] INFO : → [Little Girls Mr. Panda Shirt]
+2025-05-19 22:56:10,725 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-19 22:56:10,736 [main] INFO : → [Lace Top For Women]
+2025-05-19 22:56:10,736 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-19 22:56:10,908 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda Shirt]
+2025-05-20 03:59:35,231 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-20 03:59:35,468 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-20 03:59:36,993 [main] INFO : Verifying product name contains: Blue Top
+2025-05-20 03:59:37,107 [main] INFO : Verifying product category contains: Category
+2025-05-20 03:59:37,358 [main] INFO : Verifying product price contains: Rs.
+2025-05-20 03:59:37,466 [main] INFO : Verifying product availability contains: Availability
+2025-05-20 03:59:37,598 [main] INFO : Verifying product condition contains: Condition
+2025-05-20 03:59:37,738 [main] INFO : Verifying product brand contains: Brand
+2025-05-20 03:59:43,342 [main] INFO : Performing product search for: Top
+2025-05-20 03:59:45,233 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-20 03:59:45,369 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-20 03:59:45,653 [main] INFO : Logging all visible product names:
+2025-05-20 03:59:45,680 [main] INFO : → [Blue Top]
+2025-05-20 03:59:45,697 [main] INFO : → [Winter Top]
+2025-05-20 03:59:45,714 [main] INFO : → [Summer White Top]
+2025-05-20 03:59:45,731 [main] INFO : → [Madame Top For Women]
+2025-05-20 03:59:45,746 [main] INFO : → [Fancy Green Top]
+2025-05-20 03:59:45,760 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-20 03:59:45,776 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-20 03:59:45,791 [main] INFO : → [Frozen Tops For Kids]
+2025-05-20 03:59:45,805 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-20 03:59:45,819 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-20 03:59:45,833 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-20 03:59:45,849 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-20 03:59:45,864 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-20 03:59:45,879 [main] INFO : → [Lace Top For Women]
+2025-05-20 03:59:45,880 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-20 03:59:46,056 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-20 07:23:07,339 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-20 07:23:07,616 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-20 07:23:09,459 [main] INFO : Verifying product name contains: Blue Top
+2025-05-20 07:23:09,719 [main] INFO : Verifying product category contains: Category
+2025-05-20 07:23:09,845 [main] INFO : Verifying product price contains: Rs.
+2025-05-20 07:23:09,992 [main] INFO : Verifying product availability contains: Availability
+2025-05-20 07:23:10,094 [main] INFO : Verifying product condition contains: Condition
+2025-05-20 07:23:10,201 [main] INFO : Verifying product brand contains: Brand
+2025-05-20 07:23:18,809 [main] INFO : Performing product search for: Top
+2025-05-20 07:23:21,244 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-20 07:23:21,329 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-20 07:23:21,730 [main] INFO : Logging all visible product names:
+2025-05-20 07:23:21,754 [main] INFO : → [Blue Top]
+2025-05-20 07:23:21,769 [main] INFO : → [Winter Top]
+2025-05-20 07:23:21,783 [main] INFO : → [Summer White Top]
+2025-05-20 07:23:21,798 [main] INFO : → [Madame Top For Women]
+2025-05-20 07:23:21,813 [main] INFO : → [Fancy Green Top]
+2025-05-20 07:23:21,829 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-20 07:23:21,846 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-20 07:23:21,860 [main] INFO : → [Frozen Tops For Kids]
+2025-05-20 07:23:21,874 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-20 07:23:21,904 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-20 07:23:21,917 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-20 07:23:21,936 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-20 07:23:21,949 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-20 07:23:21,962 [main] INFO : → [Lace Top For Women]
+2025-05-20 07:23:21,963 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-20 07:23:22,178 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-20 08:10:03,022 [main] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-20 08:10:03,129 [main] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-20 08:10:05,050 [main] INFO : Verifying product name contains: Blue Top
+2025-05-20 08:10:05,283 [main] INFO : Verifying product category contains: Category
+2025-05-20 08:10:05,406 [main] INFO : Verifying product price contains: Rs.
+2025-05-20 08:10:05,521 [main] INFO : Verifying product availability contains: Availability
+2025-05-20 08:10:05,621 [main] INFO : Verifying product condition contains: Condition
+2025-05-20 08:10:05,709 [main] INFO : Verifying product brand contains: Brand
+2025-05-20 08:10:12,136 [main] INFO : Performing product search for: Top
+2025-05-20 08:10:15,125 [main] INFO : Checking visibility of 'Searched Products' header
+2025-05-20 08:10:15,865 [main] INFO : Scrolling to bottom of the page to load all products.
+2025-05-20 08:10:16,432 [main] INFO : Logging all visible product names:
+2025-05-20 08:10:16,490 [main] INFO : → [Blue Top]
+2025-05-20 08:10:16,508 [main] INFO : → [Winter Top]
+2025-05-20 08:10:16,526 [main] INFO : → [Summer White Top]
+2025-05-20 08:10:16,540 [main] INFO : → [Madame Top For Women]
+2025-05-20 08:10:16,559 [main] INFO : → [Fancy Green Top]
+2025-05-20 08:10:16,578 [main] INFO : → [Sleeves Printed Top - White]
+2025-05-20 08:10:16,592 [main] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-20 08:10:16,607 [main] INFO : → [Frozen Tops For Kids]
+2025-05-20 08:10:16,618 [main] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-20 08:10:16,632 [main] INFO : → [Printed Off Shoulder Top - White]
+2025-05-20 08:10:16,663 [main] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-20 08:10:16,689 [main] INFO : → [Little Girls Mr. Panda  Shirt]
+2025-05-20 08:10:16,705 [main] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-20 08:10:16,713 [main] INFO : → [Lace Top For Women]
+2025-05-20 08:10:16,713 [main] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-20 08:10:16,892 [main] WARN : Product name does not contain keyword: [Little Girls Mr. Panda  Shirt]
+2025-05-20 08:16:19,927 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-20 08:16:20,451 [TestNG-test-Parallel Functional Tests-4] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-20 08:16:22,936 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product name contains: Blue Top
+2025-05-20 08:16:23,252 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product category contains: Category
+2025-05-20 08:16:23,492 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product price contains: Rs.
+2025-05-20 08:16:23,708 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product availability contains: Availability
+2025-05-20 08:16:24,169 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product condition contains: Condition
+2025-05-20 08:16:24,325 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product brand contains: Brand
+2025-05-20 08:16:33,618 [TestNG-test-Parallel Functional Tests-4] INFO : Performing product search for: Top
+2025-05-20 08:16:36,356 [TestNG-test-Parallel Functional Tests-4] INFO : Checking visibility of 'Searched Products' header
+2025-05-20 08:16:36,742 [TestNG-test-Parallel Functional Tests-4] INFO : Scrolling to bottom of the page to load all products.
+2025-05-20 08:16:37,248 [TestNG-test-Parallel Functional Tests-4] INFO : Logging all visible product names:
+2025-05-20 08:16:37,341 [TestNG-test-Parallel Functional Tests-4] INFO : → [Blue Top]
+2025-05-20 08:16:37,380 [TestNG-test-Parallel Functional Tests-4] INFO : → [Winter Top]
+2025-05-20 08:16:37,399 [TestNG-test-Parallel Functional Tests-4] INFO : → [Summer White Top]
+2025-05-20 08:16:37,417 [TestNG-test-Parallel Functional Tests-4] INFO : → [Madame Top For Women]
+2025-05-20 08:16:37,433 [TestNG-test-Parallel Functional Tests-4] INFO : → [Fancy Green Top]
+2025-05-20 08:16:37,448 [TestNG-test-Parallel Functional Tests-4] INFO : → [Sleeves Printed Top - White]
+2025-05-20 08:16:37,468 [TestNG-test-Parallel Functional Tests-4] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-20 08:16:37,488 [TestNG-test-Parallel Functional Tests-4] INFO : → [Frozen Tops For Kids]
+2025-05-20 08:16:37,508 [TestNG-test-Parallel Functional Tests-4] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-20 08:16:37,533 [TestNG-test-Parallel Functional Tests-4] INFO : → [Printed Off Shoulder Top - White]
+2025-05-20 08:16:37,569 [TestNG-test-Parallel Functional Tests-4] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-20 08:16:37,591 [TestNG-test-Parallel Functional Tests-4] INFO : → [Little Girls Mr. Panda Shirt]
+2025-05-20 08:16:37,610 [TestNG-test-Parallel Functional Tests-4] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-20 08:16:37,623 [TestNG-test-Parallel Functional Tests-4] INFO : → [Lace Top For Women]
+2025-05-20 08:16:37,623 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-20 08:16:37,829 [TestNG-test-Parallel Functional Tests-4] WARN : Product name does not contain keyword: [Little Girls Mr. Panda Shirt]

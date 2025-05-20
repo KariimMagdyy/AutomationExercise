@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="classes" thread-count="4" verbose="1">
+    <test name="Parallel Functional Tests">
+        <classes>
+            <class name="Tests.AuthenticationTest"/>
+            <class name="Tests.ContactUsTest"/>
+            <class name="Tests.TestCasesPageTest"/>
+            <class name="Tests.ProductsTest"/>
+        </classes>
+    </test>
+</suite>
