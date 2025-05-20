@@ -1,7 +1,7 @@
 package Tests;
 
 import Pages.*;
-import Utils.BaseTest;
+import Test_Utils.BaseTest;
 import Utils.UserData;
 import Utils.TestDataGenerator;
 import io.qameta.allure.*;
