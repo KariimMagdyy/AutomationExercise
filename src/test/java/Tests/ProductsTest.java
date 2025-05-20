@@ -4,16 +4,18 @@ import Pages.HomePage;
 import Pages.PageFactoryManager;
 import Pages.ProductsPage;
 import Utils.BaseTest;
+import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+@Epic("Product Management")
+@Feature("View and Search Products")
 public class ProductsTest extends BaseTest {
 
     private PageFactoryManager factory;
     private HomePage home;
     private ProductsPage products;
-
 
     @BeforeMethod
     public void init(){
@@ -23,6 +25,7 @@ public class ProductsTest extends BaseTest {
     }
 
     @Test(description = "Verify visibility of all products and detailed product information")
+    @Severity(SeverityLevel.CRITICAL)
     public void VerifyAllProducts_And_ProductDetails(){
         home.GoToHome();
         Assert.assertEquals(getDriver().getCurrentUrl(),"https://automationexercise.com/");
@@ -39,6 +42,7 @@ public class ProductsTest extends BaseTest {
     }
 
     @Test(description = "Search for a product and validate search results")
+    @Severity(SeverityLevel.NORMAL)
     public void Search_Product() {
         home.GoToHome();
         Assert.assertEquals(getDriver().getCurrentUrl(), "https://automationexercise.com/");
@@ -53,7 +57,4 @@ public class ProductsTest extends BaseTest {
 
         Assert.assertTrue(products.areAllProductsRelated("Top"), "Not all product names contain 'Top'");
     }
-
-
-
 }

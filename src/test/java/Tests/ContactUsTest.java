@@ -6,11 +6,13 @@ import Pages.PageFactoryManager;
 import Utils.BaseTest;
 import Utils.TestDataGenerator;
 import Utils.UserData;
+import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-
+@Epic("Contact Us")
+@Feature("Submit Contact Form")
 public class ContactUsTest extends BaseTest {
 
     private ContactUsPage contactus;
@@ -20,7 +22,6 @@ public class ContactUsTest extends BaseTest {
 
     @BeforeMethod
     public void initialize(){
-
         factory = new PageFactoryManager(getDriver());
         contactus = factory.getContactUsPage();
         home = factory.getHomePage();
@@ -28,6 +29,7 @@ public class ContactUsTest extends BaseTest {
     }
 
     @Test(description = "Submit the Contact Us form with valid data and file upload")
+    @Severity(SeverityLevel.NORMAL)
     public void ContactUsForm(){
         home.ContactUs();
         Assert.assertTrue(contactus.IsGetinTouchVisible(),"Get in touch is not visible");;
@@ -39,5 +41,4 @@ public class ContactUsTest extends BaseTest {
         contactus.ReturnHome();
         Assert.assertEquals(getDriver().getCurrentUrl(),"https://automationexercise.com/");
     }
-
 }

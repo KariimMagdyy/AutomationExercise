@@ -10,7 +10,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-
+@Epic("Authentication")
+@Feature("User Registration and Login")
 public class AuthenticationTest extends BaseTest {
 
     private SignUpPage signup;
@@ -48,8 +49,8 @@ public class AuthenticationTest extends BaseTest {
     }
 
     @Test(description = "Register a new user with valid data")
+    @Severity(SeverityLevel.CRITICAL)
     public void RegisterNewUser() {
-
         Assert.assertEquals(getDriver().getCurrentUrl(), "https://automationexercise.com/", "Home URL mismatch");
         home.signUp_login();
         Assert.assertTrue(signup_login.IsNewUserSignUp_visible(), "New user signup is not visible");
@@ -67,10 +68,10 @@ public class AuthenticationTest extends BaseTest {
         Assert.assertTrue(accountcreated.CreationMessage(), "ACCOUNT CREATED message is not visible");
         accountcreated.Continue();
         Assert.assertTrue(home.IsloggedInVisible(), "Logged in as username is not visible");
-
     }
 
     @Test(description = "Register and then log in with correct credentials")
+    @Severity(SeverityLevel.CRITICAL)
     public void Valid_Login() {
         registerNewUser(user);
         home.Logout();
@@ -82,8 +83,8 @@ public class AuthenticationTest extends BaseTest {
     }
 
     @Test(description = "Attempt login with incorrect credentials")
+    @Severity(SeverityLevel.CRITICAL)
     public void InvalidLogin() {
-
         Assert.assertEquals(getDriver().getCurrentUrl(), "https://automationexercise.com/", "Home URL mismatch");
         home.signUp_login();
         Assert.assertTrue(signup_login.LoginInToYourAccount(), "Login to your account message is not visible");
@@ -93,6 +94,7 @@ public class AuthenticationTest extends BaseTest {
     }
 
     @Test(description = "Register a user and attempt to register again with same email")
+    @Severity(SeverityLevel.CRITICAL)
     public void RegisterWithExistingEmail() {
         registerNewUser(user);
         home.Logout();
