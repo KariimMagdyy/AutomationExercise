@@ -80,7 +80,7 @@ public class SignUpPage extends PageBase{
     }
 
     public void CheckTitle(){
-        clickWhenReady(Title,3);
+        clickWithJS(Title);
     }
 
     public boolean isNameCorrect(String expectedName) {
