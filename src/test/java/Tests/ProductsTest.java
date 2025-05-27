@@ -3,7 +3,7 @@ package Tests;
 import Pages.HomePage;
 import Pages.PageFactoryManager;
 import Pages.ProductsPage;
-import Test_Utils.BaseTest;
+import Utils.BaseTest;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;

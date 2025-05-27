@@ -3,7 +3,7 @@ package Tests;
 import Pages.ContactUsPage;
 import Pages.HomePage;
 import Pages.PageFactoryManager;
-import Test_Utils.BaseTest;
+import Utils.BaseTest;
 import Utils.TestDataGenerator;
 import Utils.UserData;
 import io.qameta.allure.*;
