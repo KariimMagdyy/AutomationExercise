@@ -34,7 +34,7 @@ public class ContactUsTest extends BaseTest {
         home.ContactUs();
         Assert.assertTrue(contactus.IsGetinTouchVisible(),"Get in touch is not visible");;
         contactus.ContacUsForm(user.firstName, user.email, "Test Subject",
-                "Test Automation is good","C:/Users/kmagd/OneDrive/Desktop/Test.txt");
+                "Test Automation is good","C:/Users/Text.txt");
         contactus.ClickSubmit();
         contactus.AcceptAlert();
         Assert.assertTrue(contactus.IsSuccesMessageVisible(),"Success Message is not visible");;

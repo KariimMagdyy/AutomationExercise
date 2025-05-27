@@ -452,3 +452,33 @@
 2025-05-20 10:56:25,492 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product availability contains: Availability
 2025-05-20 10:56:25,669 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product condition contains: Condition
 2025-05-20 10:56:25,831 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product brand contains: Brand
+2025-05-27 14:35:07,519 [TestNG-test-Parallel Functional Tests-4] INFO : Performing product search for: Top
+2025-05-27 14:35:15,259 [TestNG-test-Parallel Functional Tests-4] INFO : Checking visibility of 'Searched Products' header
+2025-05-27 14:35:15,472 [TestNG-test-Parallel Functional Tests-4] INFO : Scrolling to bottom of the page to load all products.
+2025-05-27 14:35:15,901 [TestNG-test-Parallel Functional Tests-4] INFO : Logging all visible product names:
+2025-05-27 14:35:15,941 [TestNG-test-Parallel Functional Tests-4] INFO : → [Blue Top]
+2025-05-27 14:35:15,967 [TestNG-test-Parallel Functional Tests-4] INFO : → [Winter Top]
+2025-05-27 14:35:15,998 [TestNG-test-Parallel Functional Tests-4] INFO : → [Summer White Top]
+2025-05-27 14:35:16,016 [TestNG-test-Parallel Functional Tests-4] INFO : → [Madame Top For Women]
+2025-05-27 14:35:16,032 [TestNG-test-Parallel Functional Tests-4] INFO : → [Fancy Green Top]
+2025-05-27 14:35:16,048 [TestNG-test-Parallel Functional Tests-4] INFO : → [Sleeves Printed Top - White]
+2025-05-27 14:35:16,065 [TestNG-test-Parallel Functional Tests-4] INFO : → [Half Sleeves Top Schiffli Detailing - Pink]
+2025-05-27 14:35:16,075 [TestNG-test-Parallel Functional Tests-4] INFO : → [Frozen Tops For Kids]
+2025-05-27 14:35:16,090 [TestNG-test-Parallel Functional Tests-4] INFO : → [Full Sleeves Top Cherry - Pink]
+2025-05-27 14:35:16,107 [TestNG-test-Parallel Functional Tests-4] INFO : → [Printed Off Shoulder Top - White]
+2025-05-27 14:35:16,124 [TestNG-test-Parallel Functional Tests-4] INFO : → [Sleeves Top and Short - Blue & Pink]
+2025-05-27 14:35:16,139 [TestNG-test-Parallel Functional Tests-4] INFO : → [Little Girls Mr. Panda Shirt]
+2025-05-27 14:35:16,153 [TestNG-test-Parallel Functional Tests-4] INFO : → [Colour Blocked Shirt – Sky Blue]
+2025-05-27 14:35:16,173 [TestNG-test-Parallel Functional Tests-4] INFO : → [Lace Top For Women]
+2025-05-27 14:35:16,173 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying all products in the list contain the keyword: Top
+2025-05-27 14:35:16,394 [TestNG-test-Parallel Functional Tests-4] WARN : Product name does not contain keyword: [Little Girls Mr. Panda Shirt]
+2025-05-27 14:35:16,416 [TestNG-test-Parallel Functional Tests-4] WARN : Product name does not contain keyword: [Colour Blocked Shirt – Sky Blue]
+2025-05-27 14:35:16,430 [TestNG-test-Parallel Functional Tests-4] WARN : Some product names did not match the keyword, but test will continue.
+2025-05-27 14:35:29,100 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying visibility and text of 'ALL PRODUCTS' header
+2025-05-27 14:35:29,291 [TestNG-test-Parallel Functional Tests-4] INFO : Clicking on 'View Product' button using JavaScript executor
+2025-05-27 14:35:30,968 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product name contains: Blue Top
+2025-05-27 14:35:31,215 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product category contains: Category
+2025-05-27 14:35:31,336 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product price contains: Rs.
+2025-05-27 14:35:31,491 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product availability contains: Availability
+2025-05-27 14:35:31,621 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product condition contains: Condition
+2025-05-27 14:35:31,741 [TestNG-test-Parallel Functional Tests-4] INFO : Verifying product brand contains: Brand
